@@ -1,6 +1,6 @@
 # ptu2f3
 
-This program controlls USB AC tap PTU3F3 (http://www.kairen.co.jp/japanese/other/index.html)
+This program controlls USB AC tap PTU2F3 (http://www.kairen.co.jp/japanese/other/index.html)
 working on linux.
 
 Base program comes from below site.
